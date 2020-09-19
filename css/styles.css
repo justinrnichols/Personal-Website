@@ -1,0 +1,161 @@
+body {
+  font-family: "Merriweather", serif;
+  color: #545454;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #3282b8;
+  font-family: 'Sacramento', cursive;
+  font-size: 550%;
+  margin: 0;
+  padding-top: 10%;
+}
+
+h2 {
+  color: #3282b8;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 200%;
+  margin: 1%;
+}
+
+h3 {
+  color: #3282b8;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 170%;
+  margin: 0%;
+}
+
+img {
+  height: auto;
+  max-width:100%;
+  margin: 0;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 8%;
+}
+
+.top-container {
+  background-color: #d6e0f0;
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #d6e0f0;
+  color: white;
+  margin: 0;
+  padding: 2%;
+}
+
+.profile-item {
+  margin: auto;
+  width: 25%;
+  line-height: 2;
+}
+
+.outer-item {
+  margin: 5% auto;
+}
+
+.inner-item {
+  text-align: justify;
+  margin: 8% auto;
+  width: 45%;
+  line-height: 2;
+}
+
+.footer {
+  margin: 2% auto 4%;
+}
+
+.pro {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
+.sub-titles {
+  font-size: 130%;
+}
+
+.links-text {
+  color:#3282b8;
+  text-decoration: none;
+  font-size: 110%;
+  margin: auto 2%;
+}
+
+.links-text:hover {
+	color: #1f4068;
+}
+
+.copyright-text {
+  color: #30475e;
+  font-size: 80%;
+  line-height: 4;
+  margin: 0;
+}
+
+.name-home-text {
+  text-decoration: none;
+  color: #30475e;
+}
+
+.land-pic {
+  vertical-align: bottom;
+  margin-top: 6.5%;
+}
+
+.profile-pic {
+  margin: 5% auto;
+}
+
+.left-pic {
+  float: left;
+  margin-right: 8%;
+}
+
+.right-pic {
+  float: right;
+  margin-left: 8%;
+}
+
+.mail-pic {
+  position: absolute;
+  height: auto;
+  width: 20%;
+  left: 3%;
+  top: 17%;
+  float: right;
+  margin-left: 8%;
+}
+
+.btn {
+	background-color: #3282b8;
+	border-radius: 5px;
+	display: inline-block;
+	cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+	color:#1f4068;
+	font-size: 125%;
+  text-align: center;
+	padding: .7% 2% .7% 4%;
+  margin: 2% auto;
+	text-decoration: none;
+  position: relative;
+}
+.btn:hover {
+	background-color: #2e77a9;
+}
+.btn:active {
+	position: relative;
+}
